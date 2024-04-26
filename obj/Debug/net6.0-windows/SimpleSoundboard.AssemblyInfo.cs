@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleSoundboard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc2fd28f06270c041cc6163645a1c5aec1cc72df")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleSoundboard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleSoundboard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

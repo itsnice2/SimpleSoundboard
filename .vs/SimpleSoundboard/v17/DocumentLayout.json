@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\IT-User\\git-ea\\SimpleSoundboard\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8112CB07-0842-46CE-8F49-130F4BEAD197}|SimpleSoundboard.csproj|c:\\users\\it-user\\git-ea\\simplesoundboard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8112CB07-0842-46CE-8F49-130F4BEAD197}|SimpleSoundboard.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8112CB07-0842-46CE-8F49-130F4BEAD197}|SimpleSoundboard.csproj|C:\\Users\\IT-User\\git-ea\\SimpleSoundboard\\simplesoundboard_mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8112CB07-0842-46CE-8F49-130F4BEAD197}|SimpleSoundboard.csproj|solutionrelative:simplesoundboard_mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8112CB07-0842-46CE-8F49-130F4BEAD197}|SimpleSoundboard.csproj|C:\\Users\\IT-User\\git-ea\\SimpleSoundboard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8112CB07-0842-46CE-8F49-130F4BEAD197}|SimpleSoundboard.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8112CB07-0842-46CE-8F49-130F4BEAD197}|SimpleSoundboard.csproj|c:\\users\\it-user\\git-ea\\simplesoundboard\\simplesoundboard_mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8112CB07-0842-46CE-8F49-130F4BEAD197}|SimpleSoundboard.csproj|solutionrelative:simplesoundboard_mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8112CB07-0842-46CE-8F49-130F4BEAD197}|SimpleSoundboard.csproj|c:\\users\\it-user\\git-ea\\simplesoundboard\\simplesoundboard_config.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8112CB07-0842-46CE-8F49-130F4BEAD197}|SimpleSoundboard.csproj|solutionrelative:simplesoundboard_config.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8112CB07-0842-46CE-8F49-130F4BEAD197}|SimpleSoundboard.csproj|c:\\users\\it-user\\git-ea\\simplesoundboard\\simplesoundboard_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8112CB07-0842-46CE-8F49-130F4BEAD197}|SimpleSoundboard.csproj|solutionrelative:simplesoundboard_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8112CB07-0842-46CE-8F49-130F4BEAD197}|SimpleSoundboard.csproj|c:\\users\\it-user\\git-ea\\simplesoundboard\\simplesoundboard_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8112CB07-0842-46CE-8F49-130F4BEAD197}|SimpleSoundboard.csproj|solutionrelative:simplesoundboard_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8112CB07-0842-46CE-8F49-130F4BEAD197}|SimpleSoundboard.csproj|C:\\Users\\IT-User\\git-ea\\SimpleSoundboard\\simplesoundboard_mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8112CB07-0842-46CE-8F49-130F4BEAD197}|SimpleSoundboard.csproj|solutionrelative:simplesoundboard_mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +33,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 169,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 246,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,27 +43,78 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\IT-User\\git-ea\\SimpleSoundboard\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\IT-User\\git-ea\\SimpleSoundboard\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAADgvxAAAAAMAAAA",
+              "Title": "SimpleSoundboard_MainForm.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\IT-User\\git-ea\\SimpleSoundboard\\SimpleSoundboard_MainForm.cs",
+              "RelativeDocumentMoniker": "SimpleSoundboard_MainForm.cs",
+              "ToolTip": "C:\\Users\\IT-User\\git-ea\\SimpleSoundboard\\SimpleSoundboard_MainForm.cs [Entwurf]",
+              "RelativeToolTip": "SimpleSoundboard_MainForm.cs [Entwurf]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T12:34:31.452Z",
+              "WhenOpened": "2024-04-26T12:28:46.562Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleSoundboard_Config.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\IT-User\\git-ea\\SimpleSoundboard\\SimpleSoundboard_Config.cs",
+              "RelativeDocumentMoniker": "SimpleSoundboard_Config.cs",
+              "ToolTip": "C:\\Users\\IT-User\\git-ea\\SimpleSoundboard\\SimpleSoundboard_Config.cs [Entwurf]",
+              "RelativeToolTip": "SimpleSoundboard_Config.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T11:07:57.821Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleSoundboard_Config.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\IT-User\\git-ea\\SimpleSoundboard\\SimpleSoundboard_Config.Designer.cs",
+              "RelativeDocumentMoniker": "SimpleSoundboard_Config.Designer.cs",
+              "ToolTip": "C:\\Users\\IT-User\\git-ea\\SimpleSoundboard\\SimpleSoundboard_Config.Designer.cs",
+              "RelativeToolTip": "SimpleSoundboard_Config.Designer.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAcwKcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:35:23.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimpleSoundboard_Config.cs",
+              "DocumentMoniker": "C:\\Users\\IT-User\\git-ea\\SimpleSoundboard\\SimpleSoundboard_Config.cs",
+              "RelativeDocumentMoniker": "SimpleSoundboard_Config.cs",
+              "ToolTip": "C:\\Users\\IT-User\\git-ea\\SimpleSoundboard\\SimpleSoundboard_Config.cs",
+              "RelativeToolTip": "SimpleSoundboard_Config.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAFsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:19:00.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SimpleSoundboard_MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\IT-User\\git-ea\\SimpleSoundboard\\SimpleSoundboard_MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "SimpleSoundboard_MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\IT-User\\git-ea\\SimpleSoundboard\\SimpleSoundboard_MainForm.Designer.cs",
+              "RelativeToolTip": "SimpleSoundboard_MainForm.Designer.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAcwKIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:28:27.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Entwurf]",
-              "DocumentMoniker": "C:\\Users\\IT-User\\git-ea\\SimpleSoundboard\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\IT-User\\git-ea\\SimpleSoundboard\\Form1.cs [Entwurf]",
-              "RelativeToolTip": "Form1.cs [Entwurf]",
+              "Title": "SimpleSoundboard_MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\IT-User\\git-ea\\SimpleSoundboard\\SimpleSoundboard_MainForm.cs",
+              "RelativeDocumentMoniker": "SimpleSoundboard_MainForm.cs",
+              "ToolTip": "C:\\Users\\IT-User\\git-ea\\SimpleSoundboard\\SimpleSoundboard_MainForm.cs",
+              "RelativeToolTip": "SimpleSoundboard_MainForm.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T12:26:20.012Z",
-              "EditorCaption": " [Entwurf]"
+              "WhenOpened": "2024-04-23T12:34:31.452Z",
+              "EditorCaption": ""
             }
           ]
         }

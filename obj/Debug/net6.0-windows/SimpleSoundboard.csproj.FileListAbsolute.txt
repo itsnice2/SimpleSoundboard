@@ -15,3 +15,5 @@ C:\Users\IT-User\git-ea\SimpleSoundboard\obj\Debug\net6.0-windows\refint\SimpleS
 C:\Users\IT-User\git-ea\SimpleSoundboard\obj\Debug\net6.0-windows\SimpleSoundboard.pdb
 C:\Users\IT-User\git-ea\SimpleSoundboard\obj\Debug\net6.0-windows\SimpleSoundboard.genruntimeconfig.cache
 C:\Users\IT-User\git-ea\SimpleSoundboard\obj\Debug\net6.0-windows\ref\SimpleSoundboard.dll
+C:\Users\IT-User\git-ea\SimpleSoundboard\obj\Debug\net6.0-windows\SimpleSoundboard.sourcelink.json
+C:\Users\IT-User\git-ea\SimpleSoundboard\obj\Debug\net6.0-windows\SimpleSoundboard.SimpleSoundboard_Config.resources
