@@ -1,0 +1,17 @@
+C:\Users\IT-User\git-ea\SimpleSoundboard\obj\Debug\net6.0-windows\SimpleSoundboard.Main.resources
+C:\Users\IT-User\git-ea\SimpleSoundboard\obj\Debug\net6.0-windows\SimpleSoundboard.Properties.Resources.resources
+C:\Users\IT-User\git-ea\SimpleSoundboard\obj\Debug\net6.0-windows\SimpleSoundboard.csproj.GenerateResource.cache
+C:\Users\IT-User\git-ea\SimpleSoundboard\obj\Debug\net6.0-windows\SimpleSoundboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT-User\git-ea\SimpleSoundboard\obj\Debug\net6.0-windows\SimpleSoundboard.AssemblyInfoInputs.cache
+C:\Users\IT-User\git-ea\SimpleSoundboard\obj\Debug\net6.0-windows\SimpleSoundboard.AssemblyInfo.cs
+C:\Users\IT-User\git-ea\SimpleSoundboard\obj\Debug\net6.0-windows\SimpleSoundboard.csproj.CoreCompileInputs.cache
+C:\Users\IT-User\git-ea\SimpleSoundboard\bin\Debug\net6.0-windows\SimpleSoundboard.exe
+C:\Users\IT-User\git-ea\SimpleSoundboard\bin\Debug\net6.0-windows\SimpleSoundboard.deps.json
+C:\Users\IT-User\git-ea\SimpleSoundboard\bin\Debug\net6.0-windows\SimpleSoundboard.runtimeconfig.json
+C:\Users\IT-User\git-ea\SimpleSoundboard\bin\Debug\net6.0-windows\SimpleSoundboard.dll
+C:\Users\IT-User\git-ea\SimpleSoundboard\bin\Debug\net6.0-windows\SimpleSoundboard.pdb
+C:\Users\IT-User\git-ea\SimpleSoundboard\obj\Debug\net6.0-windows\SimpleSoundboard.dll
+C:\Users\IT-User\git-ea\SimpleSoundboard\obj\Debug\net6.0-windows\refint\SimpleSoundboard.dll
+C:\Users\IT-User\git-ea\SimpleSoundboard\obj\Debug\net6.0-windows\SimpleSoundboard.pdb
+C:\Users\IT-User\git-ea\SimpleSoundboard\obj\Debug\net6.0-windows\SimpleSoundboard.genruntimeconfig.cache
+C:\Users\IT-User\git-ea\SimpleSoundboard\obj\Debug\net6.0-windows\ref\SimpleSoundboard.dll
