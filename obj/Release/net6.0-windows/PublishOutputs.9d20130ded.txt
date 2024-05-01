@@ -1,0 +1,5 @@
+D:\Projekte\GitHub\SimpleSoundboard\bin\Release\publish\SimpleSoundboard.exe
+D:\Projekte\GitHub\SimpleSoundboard\bin\Release\publish\SimpleSoundboard.dll
+D:\Projekte\GitHub\SimpleSoundboard\bin\Release\publish\SimpleSoundboard.deps.json
+D:\Projekte\GitHub\SimpleSoundboard\bin\Release\publish\SimpleSoundboard.runtimeconfig.json
+D:\Projekte\GitHub\SimpleSoundboard\bin\Release\publish\SimpleSoundboard.pdb

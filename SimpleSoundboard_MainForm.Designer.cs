@@ -135,6 +135,8 @@
             btn_config = new Button();
             btn_exit = new Button();
             listBox1 = new ListBox();
+            label_fuer_leon = new Label();
+            btn_changeForm = new Button();
             ((System.ComponentModel.ISupportInitialize)bindingSource1).BeginInit();
             SuspendLayout();
             // 
@@ -142,12 +144,13 @@
             // 
             btn_test.BackgroundImageLayout = ImageLayout.Zoom;
             btn_test.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
-            btn_test.Location = new Point(1202, 12);
+            btn_test.Location = new Point(1192, 212);
             btn_test.Name = "btn_test";
             btn_test.Size = new Size(50, 50);
             btn_test.TabIndex = 0;
             btn_test.Text = "&Test";
             btn_test.UseVisualStyleBackColor = true;
+            btn_test.Visible = false;
             btn_test.Click += btn_test_Click;
             // 
             // btn_no1
@@ -166,6 +169,7 @@
             // 
             label_btn_no1.AutoSize = true;
             label_btn_no1.Location = new Point(18, 114);
+            label_btn_no1.MaximumSize = new Size(110, 15);
             label_btn_no1.Name = "label_btn_no1";
             label_btn_no1.Size = new Size(68, 15);
             label_btn_no1.TabIndex = 2;
@@ -190,6 +194,7 @@
             btn_no2.TabIndex = 3;
             btn_no2.Text = "&1";
             btn_no2.UseVisualStyleBackColor = true;
+            btn_no2.Click += btn_no2_Click;
             // 
             // label_btn_no3
             // 
@@ -210,6 +215,7 @@
             btn_no3.TabIndex = 5;
             btn_no3.Text = "&1";
             btn_no3.UseVisualStyleBackColor = true;
+            btn_no3.Click += btn_no3_Click;
             // 
             // label_btn_no4
             // 
@@ -230,6 +236,7 @@
             btn_no4.TabIndex = 7;
             btn_no4.Text = "&1";
             btn_no4.UseVisualStyleBackColor = true;
+            btn_no4.Click += btn_no4_Click;
             // 
             // label_btn_no5
             // 
@@ -250,6 +257,7 @@
             btn_no5.TabIndex = 9;
             btn_no5.Text = "&1";
             btn_no5.UseVisualStyleBackColor = true;
+            btn_no5.Click += btn_no5_Click;
             // 
             // label_btn_no6
             // 
@@ -270,6 +278,7 @@
             btn_no6.TabIndex = 11;
             btn_no6.Text = "&1";
             btn_no6.UseVisualStyleBackColor = true;
+            btn_no6.Click += btn_no6_Click;
             // 
             // label_btn_no7
             // 
@@ -290,6 +299,7 @@
             btn_no7.TabIndex = 13;
             btn_no7.Text = "&1";
             btn_no7.UseVisualStyleBackColor = true;
+            btn_no7.Click += btn_no7_Click;
             // 
             // label_btn_no10
             // 
@@ -310,6 +320,7 @@
             btn_no10.TabIndex = 19;
             btn_no10.Text = "&1";
             btn_no10.UseVisualStyleBackColor = true;
+            btn_no10.Click += btn_no10_Click;
             // 
             // label_btn_no9
             // 
@@ -330,6 +341,7 @@
             btn_no9.TabIndex = 17;
             btn_no9.Text = "&1";
             btn_no9.UseVisualStyleBackColor = true;
+            btn_no9.Click += btn_no9_Click;
             // 
             // label_btn_no8
             // 
@@ -350,6 +362,7 @@
             btn_no8.TabIndex = 15;
             btn_no8.Text = "&1";
             btn_no8.UseVisualStyleBackColor = true;
+            btn_no8.Click += btn_no8_Click;
             // 
             // label_btn_no20
             // 
@@ -370,6 +383,7 @@
             btn_no20.TabIndex = 39;
             btn_no20.Text = "&1";
             btn_no20.UseVisualStyleBackColor = true;
+            btn_no20.Click += btn_no20_Click;
             // 
             // label_btn_no19
             // 
@@ -390,6 +404,7 @@
             btn_no19.TabIndex = 37;
             btn_no19.Text = "&1";
             btn_no19.UseVisualStyleBackColor = true;
+            btn_no19.Click += btn_no19_Click;
             // 
             // label_btn_no18
             // 
@@ -410,6 +425,7 @@
             btn_no18.TabIndex = 35;
             btn_no18.Text = "&1";
             btn_no18.UseVisualStyleBackColor = true;
+            btn_no18.Click += btn_no18_Click;
             // 
             // label_btn_no17
             // 
@@ -430,6 +446,7 @@
             btn_no17.TabIndex = 33;
             btn_no17.Text = "&1";
             btn_no17.UseVisualStyleBackColor = true;
+            btn_no17.Click += btn_no17_Click;
             // 
             // label_btn_no16
             // 
@@ -450,6 +467,7 @@
             btn_no16.TabIndex = 31;
             btn_no16.Text = "&1";
             btn_no16.UseVisualStyleBackColor = true;
+            btn_no16.Click += btn_no16_Click;
             // 
             // label_btn_no15
             // 
@@ -470,6 +488,7 @@
             btn_no15.TabIndex = 29;
             btn_no15.Text = "&1";
             btn_no15.UseVisualStyleBackColor = true;
+            btn_no15.Click += btn_no15_Click;
             // 
             // label_btn_no14
             // 
@@ -490,6 +509,7 @@
             btn_no14.TabIndex = 27;
             btn_no14.Text = "&1";
             btn_no14.UseVisualStyleBackColor = true;
+            btn_no14.Click += btn_no14_Click;
             // 
             // label_btn_no13
             // 
@@ -510,6 +530,7 @@
             btn_no13.TabIndex = 25;
             btn_no13.Text = "&1";
             btn_no13.UseVisualStyleBackColor = true;
+            btn_no13.Click += btn_no13_Click;
             // 
             // label_btn_no12
             // 
@@ -530,6 +551,7 @@
             btn_no12.TabIndex = 23;
             btn_no12.Text = "&1";
             btn_no12.UseVisualStyleBackColor = true;
+            btn_no12.Click += btn_no12_Click;
             // 
             // label_btn_no11
             // 
@@ -550,6 +572,7 @@
             btn_no11.TabIndex = 21;
             btn_no11.Text = "&1";
             btn_no11.UseVisualStyleBackColor = true;
+            btn_no11.Click += btn_no11_Click;
             // 
             // label_btn_no30
             // 
@@ -570,6 +593,7 @@
             btn_no30.TabIndex = 59;
             btn_no30.Text = "&1";
             btn_no30.UseVisualStyleBackColor = true;
+            btn_no30.Click += btn_no30_Click;
             // 
             // label_btn_no29
             // 
@@ -590,6 +614,7 @@
             btn_no29.TabIndex = 57;
             btn_no29.Text = "&1";
             btn_no29.UseVisualStyleBackColor = true;
+            btn_no29.Click += btn_no29_Click;
             // 
             // label_btn_no28
             // 
@@ -610,6 +635,7 @@
             btn_no28.TabIndex = 55;
             btn_no28.Text = "&1";
             btn_no28.UseVisualStyleBackColor = true;
+            btn_no28.Click += btn_no28_Click;
             // 
             // label_btn_no27
             // 
@@ -630,6 +656,7 @@
             btn_no27.TabIndex = 53;
             btn_no27.Text = "&1";
             btn_no27.UseVisualStyleBackColor = true;
+            btn_no27.Click += btn_no27_Click;
             // 
             // label_btn_no26
             // 
@@ -650,6 +677,7 @@
             btn_no26.TabIndex = 51;
             btn_no26.Text = "&1";
             btn_no26.UseVisualStyleBackColor = true;
+            btn_no26.Click += btn_no26_Click;
             // 
             // label_btn_no25
             // 
@@ -670,6 +698,7 @@
             btn_no25.TabIndex = 49;
             btn_no25.Text = "&1";
             btn_no25.UseVisualStyleBackColor = true;
+            btn_no25.Click += btn_no25_Click;
             // 
             // label_btn_no24
             // 
@@ -690,6 +719,7 @@
             btn_no24.TabIndex = 47;
             btn_no24.Text = "&1";
             btn_no24.UseVisualStyleBackColor = true;
+            btn_no24.Click += btn_no24_Click;
             // 
             // label_btn_no23
             // 
@@ -710,6 +740,7 @@
             btn_no23.TabIndex = 45;
             btn_no23.Text = "&1";
             btn_no23.UseVisualStyleBackColor = true;
+            btn_no23.Click += btn_no23_Click;
             // 
             // label_btn_no22
             // 
@@ -730,6 +761,7 @@
             btn_no22.TabIndex = 43;
             btn_no22.Text = "&1";
             btn_no22.UseVisualStyleBackColor = true;
+            btn_no22.Click += btn_no22_Click;
             // 
             // label_btn_no21
             // 
@@ -750,6 +782,7 @@
             btn_no21.TabIndex = 41;
             btn_no21.Text = "&1";
             btn_no21.UseVisualStyleBackColor = true;
+            btn_no21.Click += btn_no21_Click;
             // 
             // label_btn_no40
             // 
@@ -770,6 +803,7 @@
             btn_no40.TabIndex = 79;
             btn_no40.Text = "&1";
             btn_no40.UseVisualStyleBackColor = true;
+            btn_no40.Click += btn_no40_Click;
             // 
             // label_btn_no39
             // 
@@ -790,6 +824,7 @@
             btn_no39.TabIndex = 77;
             btn_no39.Text = "&1";
             btn_no39.UseVisualStyleBackColor = true;
+            btn_no39.Click += btn_no39_Click;
             // 
             // label_btn_no38
             // 
@@ -810,6 +845,7 @@
             btn_no38.TabIndex = 75;
             btn_no38.Text = "&1";
             btn_no38.UseVisualStyleBackColor = true;
+            btn_no38.Click += btn_no38_Click;
             // 
             // label_btn_no37
             // 
@@ -830,6 +866,7 @@
             btn_no37.TabIndex = 73;
             btn_no37.Text = "&1";
             btn_no37.UseVisualStyleBackColor = true;
+            btn_no37.Click += btn_no37_Click;
             // 
             // label_btn_no36
             // 
@@ -850,6 +887,7 @@
             btn_no36.TabIndex = 71;
             btn_no36.Text = "&1";
             btn_no36.UseVisualStyleBackColor = true;
+            btn_no36.Click += btn_no36_Click;
             // 
             // label_btn_no35
             // 
@@ -870,6 +908,7 @@
             btn_no35.TabIndex = 69;
             btn_no35.Text = "&1";
             btn_no35.UseVisualStyleBackColor = true;
+            btn_no35.Click += btn_no35_Click;
             // 
             // label_btn_no34
             // 
@@ -890,6 +929,7 @@
             btn_no34.TabIndex = 67;
             btn_no34.Text = "&1";
             btn_no34.UseVisualStyleBackColor = true;
+            btn_no34.Click += btn_no34_Click;
             // 
             // label_btn_no33
             // 
@@ -910,6 +950,7 @@
             btn_no33.TabIndex = 65;
             btn_no33.Text = "&1";
             btn_no33.UseVisualStyleBackColor = true;
+            btn_no33.Click += btn_no33_Click;
             // 
             // label_btn_no32
             // 
@@ -930,6 +971,7 @@
             btn_no32.TabIndex = 63;
             btn_no32.Text = "&1";
             btn_no32.UseVisualStyleBackColor = true;
+            btn_no32.Click += btn_no32_Click;
             // 
             // label_btn_no31
             // 
@@ -950,6 +992,7 @@
             btn_no31.TabIndex = 61;
             btn_no31.Text = "&1";
             btn_no31.UseVisualStyleBackColor = true;
+            btn_no31.Click += btn_no31_Click;
             // 
             // label_btn_no50
             // 
@@ -970,6 +1013,7 @@
             btn_no50.TabIndex = 99;
             btn_no50.Text = "&1";
             btn_no50.UseVisualStyleBackColor = true;
+            btn_no50.Click += btn_no50_Click;
             // 
             // label_btn_no49
             // 
@@ -990,6 +1034,7 @@
             btn_no49.TabIndex = 97;
             btn_no49.Text = "&1";
             btn_no49.UseVisualStyleBackColor = true;
+            btn_no49.Click += btn_no49_Click;
             // 
             // label_btn_no48
             // 
@@ -1010,6 +1055,7 @@
             btn_no48.TabIndex = 95;
             btn_no48.Text = "&1";
             btn_no48.UseVisualStyleBackColor = true;
+            btn_no48.Click += btn_no48_Click;
             // 
             // label_btn_no47
             // 
@@ -1030,6 +1076,7 @@
             btn_no47.TabIndex = 93;
             btn_no47.Text = "&1";
             btn_no47.UseVisualStyleBackColor = true;
+            btn_no47.Click += btn_no47_Click;
             // 
             // label_btn_no46
             // 
@@ -1050,6 +1097,7 @@
             btn_no46.TabIndex = 91;
             btn_no46.Text = "&1";
             btn_no46.UseVisualStyleBackColor = true;
+            btn_no46.Click += btn_no46_Click;
             // 
             // label_btn_no45
             // 
@@ -1070,6 +1118,7 @@
             btn_no45.TabIndex = 89;
             btn_no45.Text = "&1";
             btn_no45.UseVisualStyleBackColor = true;
+            btn_no45.Click += btn_no45_Click;
             // 
             // label_btn_no44
             // 
@@ -1090,6 +1139,7 @@
             btn_no44.TabIndex = 87;
             btn_no44.Text = "&1";
             btn_no44.UseVisualStyleBackColor = true;
+            btn_no44.Click += btn_no44_Click;
             // 
             // label_btn_no43
             // 
@@ -1110,6 +1160,7 @@
             btn_no43.TabIndex = 85;
             btn_no43.Text = "&1";
             btn_no43.UseVisualStyleBackColor = true;
+            btn_no43.Click += btn_no43_Click;
             // 
             // label_btn_no42
             // 
@@ -1130,6 +1181,7 @@
             btn_no42.TabIndex = 83;
             btn_no42.Text = "&1";
             btn_no42.UseVisualStyleBackColor = true;
+            btn_no42.Click += btn_no42_Click;
             // 
             // label_btn_no41
             // 
@@ -1150,13 +1202,14 @@
             btn_no41.TabIndex = 81;
             btn_no41.Text = "&1";
             btn_no41.UseVisualStyleBackColor = true;
+            btn_no41.Click += btn_no41_Click;
             // 
             // btn_config
             // 
             btn_config.BackgroundImage = (Image)resources.GetObject("btn_config.BackgroundImage");
             btn_config.BackgroundImageLayout = ImageLayout.Zoom;
             btn_config.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
-            btn_config.Location = new Point(1202, 62);
+            btn_config.Location = new Point(1202, 12);
             btn_config.Name = "btn_config";
             btn_config.Size = new Size(50, 50);
             btn_config.TabIndex = 101;
@@ -1168,7 +1221,7 @@
             btn_exit.BackgroundImage = Properties.Resources.icons8_ausgang_96;
             btn_exit.BackgroundImageLayout = ImageLayout.Zoom;
             btn_exit.Font = new Font("Segoe UI", 6F, FontStyle.Regular, GraphicsUnit.Point);
-            btn_exit.Location = new Point(1202, 145);
+            btn_exit.Location = new Point(1202, 597);
             btn_exit.Name = "btn_exit";
             btn_exit.Size = new Size(50, 50);
             btn_exit.TabIndex = 102;
@@ -1177,12 +1230,37 @@
             // 
             // listBox1
             // 
+            listBox1.Font = new Font("Segoe UI", 16F, FontStyle.Regular, GraphicsUnit.Point);
             listBox1.FormattingEnabled = true;
-            listBox1.ItemHeight = 15;
-            listBox1.Location = new Point(941, 1);
+            listBox1.ItemHeight = 30;
+            listBox1.Location = new Point(12, 10);
             listBox1.Name = "listBox1";
-            listBox1.Size = new Size(234, 679);
+            listBox1.Size = new Size(446, 664);
             listBox1.TabIndex = 103;
+            listBox1.Visible = false;
+            listBox1.Click += listBox1_Click;
+            // 
+            // label_fuer_leon
+            // 
+            label_fuer_leon.AutoSize = true;
+            label_fuer_leon.Location = new Point(1221, 329);
+            label_fuer_leon.Name = "label_fuer_leon";
+            label_fuer_leon.Size = new Size(12, 15);
+            label_fuer_leon.TabIndex = 104;
+            label_fuer_leon.Text = "?";
+            label_fuer_leon.Click += label1_Click;
+            // 
+            // btn_changeForm
+            // 
+            btn_changeForm.BackgroundImageLayout = ImageLayout.Zoom;
+            btn_changeForm.Font = new Font("Segoe UI", 7F, FontStyle.Bold, GraphicsUnit.Point);
+            btn_changeForm.Location = new Point(1202, 79);
+            btn_changeForm.Name = "btn_changeForm";
+            btn_changeForm.Size = new Size(50, 50);
+            btn_changeForm.TabIndex = 105;
+            btn_changeForm.Text = "Liste";
+            btn_changeForm.UseVisualStyleBackColor = true;
+            btn_changeForm.Click += btn_changeForm_Click;
             // 
             // Main
             // 
@@ -1190,6 +1268,9 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImageLayout = ImageLayout.Center;
             ClientSize = new Size(1264, 681);
+            ControlBox = false;
+            Controls.Add(btn_changeForm);
+            Controls.Add(label_fuer_leon);
             Controls.Add(listBox1);
             Controls.Add(btn_exit);
             Controls.Add(btn_config);
@@ -1294,7 +1375,10 @@
             Controls.Add(label_btn_no1);
             Controls.Add(btn_no1);
             Controls.Add(btn_test);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
             Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
+            MinimizeBox = false;
             Name = "Main";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "SimpleSoundboard";
@@ -1416,5 +1500,7 @@
         private Button btn_config;
         private Button btn_exit;
         private ListBox listBox1;
+        private Label label_fuer_leon;
+        private Button btn_changeForm;
     }
 }

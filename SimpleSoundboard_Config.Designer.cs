@@ -120,6 +120,7 @@
             btn_save.Size = new Size(50, 50);
             btn_save.TabIndex = 12;
             btn_save.UseVisualStyleBackColor = true;
+            btn_save.Click += btn_save_Click;
             // 
             // btn_close
             // 
@@ -140,6 +141,7 @@
             cb_buttons.Name = "cb_buttons";
             cb_buttons.Size = new Size(300, 33);
             cb_buttons.TabIndex = 14;
+            cb_buttons.SelectedIndexChanged += cb_buttons_SelectedIndexChanged;
             // 
             // SimpleSoundboard_Config
             // 
@@ -158,6 +160,7 @@
             Controls.Add(cb_sound_1);
             Controls.Add(cb_img_1);
             Controls.Add(label_b1);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
             Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             MinimizeBox = false;
